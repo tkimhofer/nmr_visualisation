@@ -1,4 +1,4 @@
-# 🧲 Interactive 3D Visualization of a Standard 1D NMR Experiment
+# 🧲 NMR: Implementation of Bloch equations to visualise a standard 1D NMR experiment in 3D
 
 An interactive JavaScript visualisation of the bulk magnetisation vector and detected signals during a standard 1D NMR (Nuclear Magnetic Resonance) experiment. 
 
