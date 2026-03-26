@@ -1,15 +1,16 @@
 # 🧲 NMR: Implementation of Bloch equations to visualise a standard 1D NMR experiment in 3D
 
-An interactive JavaScript visualisation of the bulk magnetisation vector and detected signals during a standard 1D NMR (Nuclear Magnetic Resonance) experiment. 
+An interactive visualisation of the bulk magnetisation vector and detected signals during a standard 1D NMR (Nuclear Magnetic Resonance) experiment. 
+
+It is meant as an educational tool for students of spectroscopy or physics learning about programming and spin dynamics / NMR signal formation.
+
 
 🔗 **Live demo:** [tkimhofer.github.io/nmr_visualisation](https://tkimhofer.github.io/nmr_visualisation/)
 
-Note: I've added a button top-left to apply RF pulse.
+I've added a button top-left to apply RF pulse.
 
 ## 🎯 Overview
 This project implements and visualises the fundamental physical processes in a standard 90° NMR experiment — from nuclear spin alignment to RF excitation, signal precession, relaxation, and data detection — using an animated 3D scene rendered with [Three.js](https://threejs.org/).
-
-It is meant as an educational tool for students of spectroscopy or physics learning about spin dynamics and NMR signal formation.
 
 
 ## 🧩 Implementation
